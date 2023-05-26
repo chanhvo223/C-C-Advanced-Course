@@ -1,0 +1,1 @@
+![centerpoint](../docs/center%20points.png)
